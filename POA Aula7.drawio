@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T23:35:46.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DM3GU5xJ-hIrcDwFPoQ-" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-15T23:47:29.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-e9NYITIbqTEq6UiPtb0" version="20.2.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1056" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -83,6 +83,9 @@
           <mxGeometry x="0.546" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nNbWJi793hhh0OnrV39A-64" value="Grupo 5&#xa;Heberth Fonseca&#xa;Marcelo Alencar&#xa;Jose Lucas&#xa;Carlos Eduardo" style="label;fontStyle=0;strokeColor=none;fillColor=none;align=left;verticalAlign=top;overflow=hidden;spacingLeft=28;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;imageWidth=16;imageHeight=16;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
